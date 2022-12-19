@@ -11638,4 +11638,11 @@ a#mail:hover{
 a#btnformation:hover{
     color: #101214;
     background-color: white;
+    font-weight: bold;
+}
+
+a#btnabout:hover{
+    color: #0dcaf0;
+    background-color: white;
+    font-weight: bold;
 }
