@@ -11497,7 +11497,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: url("../assets/img/code.jpg");
+  background: url("../assets/img/programming.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11618,7 +11618,24 @@ footer.footer .social-link:hover {
     color: #ecb807;
 }
 
+a#otravel:hover{
+    font-weight: bold;
+}
+
 .comp{
     color: #ecb807;
     text-align: center;
+}
+
+a#cv:hover{
+    font-weight: bold;
+}
+
+a#mail:hover{
+    font-weight: bold;
+}
+
+a#btnformation:hover{
+    color: #101214;
+    background-color: white;
 }
